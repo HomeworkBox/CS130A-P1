@@ -1,0 +1,10 @@
+1. main.cpp contains the main fucntion, it convers stdin to my class's input.
+2. heapHA.h is the header file for class "heaphash" and struct "hash"
+3. heapHA.cpp comtains the implementation of the code.
+4. makefile has commands in the following:
+all:
+	g++ main.cpp heapHA.cpp -o prog1
+
+Tyler Weimin Ouyang
+Oct 30th, 2014
+12:36AM

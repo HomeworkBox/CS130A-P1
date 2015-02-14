@@ -1,0 +1,56 @@
+16 inserted
+27 inserted
+38 inserted
+38 deleted
+49 inserted
+38 inserted
+60 inserted
+82 not found
+38 already present
+71 inserted
+82 inserted
+71 found
+82 already present
+93 inserted
+16 27 38 49 60 71 82 93 
+Minimum key 16 deleted
+27 38 49 60 71 82 93 
+16 inserted
+16 27 38 49 60 71 82 93 
+82 deleted
+49 deleted
+16 27 38 60 71 93 
+Minimum key 16 deleted
+Minimum key 27 deleted
+16 not found
+Minimum key 38 deleted
+Minimum key 60 deleted
+71 93 
+16 inserted
+27 inserted
+38 inserted
+38 deleted
+49 inserted
+38 inserted
+60 inserted
+82 not found
+38 already present
+71 already present
+82 inserted
+71 found
+82 already present
+93 already present
+16 27 38 49 60 71 82 93 
+Minimum key 16 deleted
+27 38 49 60 71 82 93 
+16 inserted
+16 27 38 49 60 71 82 93 
+82 deleted
+49 deleted
+16 27 38 60 71 93 
+Minimum key 16 deleted
+Minimum key 27 deleted
+16 not found
+Minimum key 38 deleted
+Minimum key 60 deleted
+71 93 
